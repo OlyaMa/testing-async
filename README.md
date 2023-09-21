@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/7to60t701bmwx19d?svg=true)](https://ci.appveyor.com/project/OlyaMa/testing-async)
